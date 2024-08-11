@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Selena. I am a post-bacc RA at MIT working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev). Here, I work on many projects related to language processing and representations in brains and LLMs.
 
-I am interested in how agents flexibly extract, encode, and represent meanings in language. What are the mechanisms and architectures that underlie intelligent systems? How do we use language as a tool to abstract and constrain information? 
+I am interested in how agents flexibly extract, encode, and represent meanings. What are the mechanisms and architectures that underlie intelligent communicative behaviors? How do we use language as a tool to abstract and constrain information? 
 
 I have attempted these questions by 1) :brain: studying the language network in the brain, 2) :robot: evaluating, probing, and intervening on language models, and 3) :woman: conducting behavioral experiments. Check out my [papers](https://selenashe.github.io/Publications/) for more!
 
