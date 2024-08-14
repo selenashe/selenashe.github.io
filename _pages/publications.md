@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 [Temporal regions are the epicenter of language processing in the human brain](https://2024.ccneuro.org/pdf/429_Paper_authored_tuckute.pdf)\\
-Greta Tuckute, Aalok Sathe, **Jingyuan Selena She**, and Evelina Fedorenko. 2024.\\
+Greta Tuckute, Aalok Sathe, **Jingyuan Selena She**, and Evelina Fedorenko. 2024. [`poster`](https://drive.google.com/file/d/1Z2AatdQXhZ0bI_obbUEmKL8ubRAuuKzp/view?usp=sharing)\\
 (CCN) Cognitive Computational Neuroscience\\
 :brain:
 
@@ -26,7 +26,7 @@ bioRxiv 2024.06.21.599332\\
 
 
 [You are what you're for: Essentialist categorization in large language models.](https://escholarship.org/uc/item/3996v30z)\\
-Siying Zhang\*, **Jingyuan Selena She**\*, Tobias Gerstenberg, and David Rose. 2023. [`data`](https://github.com/cicl-stanford/essentialism_in_llms) [`poster`](https://underline.io/lecture/79989-p1-k-55-1668-dashdash-you-are-what-you-re-for-essentialist-categorization-in-large-language-models)\\
+Siying Zhang\*, **Jingyuan Selena She\***, Tobias Gerstenberg, and David Rose. 2023. [`data`](https://github.com/cicl-stanford/essentialism_in_llms) [`poster`](https://underline.io/lecture/79989-p1-k-55-1668-dashdash-you-are-what-you-re-for-essentialist-categorization-in-large-language-models)\\
 (CogSci) Proceedings of the 45th Annual Conference of the Cognitive Science Society\\
 :robot:
 
