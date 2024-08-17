@@ -6,6 +6,12 @@ description: (* denotes equal contribution)
 nav: true
 nav_order: 2
 ---
+Methods: 
+:brain: brain imaging | 
+:robot: language modeling | 
+:woman: behavioral experiments
+
+-------------------------------
 
 [Temporal regions are the epicenter of language processing in the human brain](https://2024.ccneuro.org/pdf/429_Paper_authored_tuckute.pdf)\\
 Greta Tuckute, Aalok Sathe, **Jingyuan Selena She**, and Evelina Fedorenko. 2024. [`poster`](https://drive.google.com/file/d/1Z2AatdQXhZ0bI_obbUEmKL8ubRAuuKzp/view?usp=sharing)\\
