@@ -23,7 +23,7 @@ I am interested in how agents flexibly extract, encode, and represent meanings. 
 
 <!-- I have attempted these questions by 1) :brain: studying the language network in the brain, 2) :robot: evaluating, probing, and intervening on neural network language models, and 3) :woman: conducting behavioral experiments. Check out my [papers](https://selenashe.github.io/Publications/) for more! -->
 
-Recently, I graduated from Haverford College with degrees in Mathematics and Cognitive Science. I was also lucky to work with some wonderful mentors: [Benjamin Zinszer](https://benjaminz.com/) through my senior thesis, [Chris Potts](https://stanford.edu/~cgpotts/) and [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) through the [Stanford CSLI internship](https://csli.stanford.edu/csli-summer-internship-program-2024), and [Furong Huang](https://furong-huang.com/) through the [REU-CAAR program](https://www.cs.umd.edu/projects/reucaar/). 
+Recently, I graduated from [Haverford College](https://www.haverford.edu/) with degrees in Mathematics and Cognitive Science. I was also lucky to work with some wonderful mentors: [Benjamin Zinszer](https://benjaminz.com/) through my [senior thesis](https://www.swarthmore.edu/cognitive-science/academic-program), [Chris Potts](https://stanford.edu/~cgpotts/) and [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) through the [Stanford CSLI internship](https://csli.stanford.edu/csli-summer-internship-program-2024), and [Furong Huang](https://furong-huang.com/) through the [REU-CAAR program](https://www.cs.umd.edu/projects/reucaar/). 
 
 
 **News:**
