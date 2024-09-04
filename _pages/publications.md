@@ -18,7 +18,7 @@ bioRxiv 2024.06.21.599332
 
 
 [ScoNe: Benchmarking Negation Reasoning in Language Models With Fine-Tuning and In-Context Learning.](https://aclanthology.org/2023.acl-short.154/)\\
-**Jingyuan Selena She**, Christopher Potts, Samuel B. Bowman, and Atticus Geiger. 2023. [`data`](https://github.com/selenashe/ScoNe) [`poster`](https://underline.io/lecture/77019-scone-benchmarking-negation-reasoning-in-language-models-with-fine-tuning-and-in-context-learning)\\
+**Jingyuan Selena She**, Christopher Potts, Samuel B. Bowman, and Atticus Geiger. 2023. [`data`](https://github.com/selenashe/ScoNe) [`poster`](https://underline.io/lecture/77019-scone-benchmarking-negation-reasoning-in-language-models-with-fine-tuning-and-in-context-learning?posterExpanded=true)\\
 (ACL) Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics
 
 
