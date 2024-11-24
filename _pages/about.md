@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Selena. I am a post-bacc RA at MIT working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev). Here, I work on many projects related to language processing and representations in brains and LMs.
 
-I like to think about how humans and machines process and use language.
+I am interested in how humans and machines process and use language.
 
 <!-- I am interested in how agents flexibly extract, encode, and represent meanings. What are the mechanisms and architectures that underlie intelligent communication? -->
 
