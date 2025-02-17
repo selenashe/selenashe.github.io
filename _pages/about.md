@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Selena. I am a post-bacc RA at MIT working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev). Here, I work on many projects related to language processing and representations in brains and LMs.
@@ -29,9 +29,13 @@ Recently, I graduated from Haverford College with majors in Mathematics and Cogn
 
 
 **News:**
-
+<!-- - 02/2025: **I am starting my PhD at Stanford CS in fall 2025!** -->
 - 08/2024: Check out our poster on [focal language processing](https://2024.ccneuro.org/pdf/429_Paper_authored_tuckute.pdf) at CCN
 - 06/2024: Our project on [syntax in the brain](https://www.biorxiv.org/content/10.1101/2024.06.21.599332v1) is preprinted
 - 11/2023: Our paper on [event knowledge in LMs](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13386) is out in Cognitive Science
 - 07/2023: I presented our paper on [negation in LMs](https://aclanthology.org/2023.acl-short.154/) at ACL
 - 07/2023: Presented two papers at Cogsci Society: [lexical semantics](https://escholarship.org/uc/item/4748z6vz) and [categorization](https://escholarship.org/uc/item/3996v30z) in humans vs. LMs
+
+---
+
+[Email](mailto:%6A%73%68%65@%6D%69%74.%65%64%75) | [Google Scholar](https://scholar.google.com/citations?user=ShpJ4jwAAAAJ)
