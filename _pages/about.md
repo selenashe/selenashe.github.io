@@ -17,19 +17,15 @@ social: false # includes social icons at the bottom of the page
 
 Hi, I'm Selena. I am a post-bacc RA at MIT working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev). Here, I work on many projects related to language processing and representations in brains and LMs.
 
-I am interested in how humans and machines understand and use language.
+**I am starting my PhD at Stanford in fall 2025.**
 
-<!-- I am interested in how agents flexibly extract, encode, and represent meanings. What are the mechanisms and architectures that underlie intelligent communication? -->
+I am interested in how humans and machines use language to understand meanings, share knowledge, and achieve goals. To study this, I hope to bridge insights from artificial intelligence (e.g., NN interpretability) and cognitive science (e.g., neuroimaging).
 
-<!-- How do we use language as a tool to process rich information?  -->
 
-<!-- I have attempted these questions by 1) :brain: studying the language network in the brain, 2) :robot: evaluating, probing, and intervening on neural network language models, and 3) :woman: conducting behavioral experiments. Check out my [papers](https://selenashe.github.io/Publications/) for more! -->
-
-Recently, I graduated from Haverford College with majors in Mathematics and Cognitive Science. I was also lucky to work with some wonderful mentors: [Benjamin Zinszer](https://benjaminz.com/) through my [senior thesis](https://www.swarthmore.edu/cognitive-science/academic-program), [Chris Potts](https://stanford.edu/~cgpotts/) and [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) through the [CSLI internship](https://csli.stanford.edu/csli-summer-internship-program-2024), and [Furong Huang](https://furong-huang.com/) through the [REU-CAAR program](https://www.cs.umd.edu/projects/reucaar/). 
+Before coming to MIT, I graduated from Haverford College with majors in Mathematics and Cognitive Science. I was also lucky to work with some wonderful mentors: [Benjamin Zinszer](https://benjaminz.com/) through my [senior thesis](https://www.swarthmore.edu/cognitive-science/academic-program), [Chris Potts](https://stanford.edu/~cgpotts/) and [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) through the [CSLI internship](https://csli.stanford.edu/csli-summer-internship-program-2024), and [Furong Huang](https://furong-huang.com/) through the [REU-CAAR program](https://www.cs.umd.edu/projects/reucaar/). 
 
 
 **News:**
-<!-- - 02/2025: **I am starting my PhD at Stanford CS in fall 2025!** -->
 - 08/2024: Check out our poster on [focal language processing](https://2024.ccneuro.org/pdf/429_Paper_authored_tuckute.pdf) at CCN
 - 06/2024: Our project on [syntax in the brain](https://www.biorxiv.org/content/10.1101/2024.06.21.599332v1) is preprinted
 - 11/2023: Our paper on [event knowledge in LMs](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13386) is out in Cognitive Science
@@ -39,3 +35,5 @@ Recently, I graduated from Haverford College with majors in Mathematics and Cogn
 ---
 
 [Email](mailto:%6A%73%68%65@%6D%69%74.%65%64%75) | [Google Scholar](https://scholar.google.com/citations?user=ShpJ4jwAAAAJ)
+
+<!-- <h3>Publications</h3> -->
