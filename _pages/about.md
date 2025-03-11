@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi, I'm Selena. I am a post-bacc RA at MIT working with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev). Here, I work on many projects related to language processing and representations in brains and LMs.
 
-**I am starting my PhD at Stanford CS in fall 2025.**
+I am starting my PhD at Stanford CS in fall 2025.
 
 I am interested in how humans and machines use language to understand meanings, share knowledge, and achieve goals. To study this, I hope to bridge insights from artificial intelligence (e.g., NN interpretability) and cognitive science (e.g., neuroimaging).
 
