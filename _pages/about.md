@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi, I’m Selena. I am a first-year Computer Science Ph.D. student at Stanford University, where I am rotating with [Robert Hawkins](https://rdhawkins.com/), [Cory Shain](https://climblab.org/members/cory_shain), [Christopher Potts](https://stanford.edu/~cgpotts/), and [Diyi Yang](https://cs.stanford.edu/~diyiy/). I am grateful to be supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf).
 
-I am interested in how humans and machines understand and communicate with each other: How do we maintain common grounds and negotiate responsibilities in dialogues? To what extent do we rely on language in all this? I study this using tools from both artificial intelligence and cognitive (neuro)science.
+I am interested in how humans and machines understand and communicate with each other. How do sounds become shared meanings and coordinated actions? To what extent do we rely on language in all of this? I study this using tools from both artificial intelligence (like building agents) and cognitive neuroscience (like neuroimaging).
 
 Before coming to Stanford, I spent two years as a research assistant with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) at MIT. Before MIT, I graduated from Haverford College with majors in Mathematics and Cognitive Science. During undergrad, I interned at Stanford’s Center for the Study of Language and Information ([CSLI](https://csli.stanford.edu/csli-summer-internship-program-2024)) and UMD’s Program in Combinatorics and Algorithms for Real Problems ([REU-CAAR](https://www.cs.umd.edu/projects/reucaar/)).
 
