@@ -19,7 +19,9 @@ Hi, I’m Selena. I am a first-year Computer Science Ph.D. student at Stanford U
 
 I am interested in how humans and machines understand and communicate with each other. How do sounds become shared meanings and coordinated actions? To what extent do we rely on language in all of this? I study this using tools from both artificial intelligence (like building agents) and cognitive neuroscience (like neuroimaging).
 
-Before coming to Stanford, I spent two years as a research assistant with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) at MIT. Before MIT, I graduated from Haverford College with majors in Mathematics and Cognitive Science. During undergrad, I interned at Stanford’s Center for the Study of Language and Information ([CSLI](https://csli.stanford.edu/csli-summer-internship-program-2024)) and UMD’s Program in Combinatorics and Algorithms for Real Problems ([REU-CAAR](https://www.cs.umd.edu/projects/reucaar/)).
+Before coming to Stanford, I spent two years as a research assistant with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) at MIT. Before that, I graduated from Haverford College studying Mathematics and Cognitive Science. During undergrad, I also ran cross country & track and interned at Stanford’s Center for the Study of Language and Information ([CSLI](https://csli.stanford.edu/csli-summer-internship-program-2024)) and UMD’s Program in Combinatorics and Algorithms for Real Problems ([REU-CAAR](https://www.cs.umd.edu/projects/reucaar/)).
+
+Outside of work, I like caffeine, cuisine, the silver screen, and staying active in between.
 
 :envelope: Contact me at: jshe {at} stanford {dot} edu
 
