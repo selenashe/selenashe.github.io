@@ -21,8 +21,6 @@ I am interested in how humans and machines understand and communicate with each 
 
 Before coming to Stanford, I spent two years as a research assistant with [Ev Fedorenko](https://www.evlab.mit.edu/about-ev) at MIT. Before that, I graduated from Haverford College studying Mathematics and Cognitive Science. During undergrad, I also ran cross country & track and interned at Stanford’s Center for the Study of Language and Information ([CSLI](https://csli.stanford.edu/csli-summer-internship-program-2024)) and UMD’s Program in Combinatorics and Algorithms for Real Problems ([REU-CAAR](https://www.cs.umd.edu/projects/reucaar/)).
 
-Outside of work, I like caffeine, cuisine, the silver screen, and staying active in between.
-
 :envelope: Contact me at: jshe {at} stanford {dot} edu
 
 
